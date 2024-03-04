@@ -1,0 +1,14 @@
+{
+    "items": [
+        {"id" : 17, "level": 1, "itemType":"2", "name": "花枝", "path": "/image/num17.jpg"},
+        {"id" : 18, "level": 1, "itemType":"2", "name": "白蝦", "path": "/image/num18.jpg"},
+        {"id" : 19, "level": 1, "itemType":"2", "name": "草蝦", "path": "/image/num19.jpg"},
+        {"id" : 20, "level": 1, "itemType":"2", "name": "蛤蜊", "path": "/image/num20.jpg"},
+        {"id" : 21, "level": 2, "itemType":"2", "name": "扇貝", "path": "/image/num21.jpg"},
+        {"id" : 22, "level": 2, "itemType":"2", "name": "魚下巴", "path": "/image/num22.jpg"},
+        {"id" : 23, "level": 3, "itemType":"2", "name": "生蠔", "path": "/image/num23.jpg"},
+        {"id" : 24, "level": 3, "itemType":"2", "name": "天使紅蝦", "path": "/image/num24.jpg"},
+        {"id" : 25, "level": 3, "itemType":"2", "name": "干貝", "path": "/image/num25.jpg"},
+        {"id" : 26, "level": 3, "itemType":"2", "name": "香魚", "path": "/image/num26.jpg"}
+    ]
+}

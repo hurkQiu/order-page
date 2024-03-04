@@ -1,0 +1,8 @@
+{
+    "items": [
+        {"id" : 27, "level": 1, "itemType":"3", "name": "玉米筍", "path": "/image/num27.jpg"},
+        {"id" : 28, "level": 1, "itemType":"3", "name": "甜椒", "path": "/image/num28.jpg"},
+        {"id" : 29, "level": 2, "itemType":"3", "name": "櫛瓜", "path": "/image/num29.jpg"},
+        {"id" : 30, "level": 1, "itemType":"3", "name": "生菜", "path": "/image/num30.jpg"}
+    ]
+}

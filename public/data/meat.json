@@ -1,0 +1,20 @@
+{
+    "items": [
+        {"id" : 1, "level": 1, "itemType":"1", "name": "牛五花", "path": "/image/num1.jpg"},
+        {"id" : 2, "level": 1, "itemType":"1", "name": "低脂牛肉", "path": "/image/num2.jpg"},
+        {"id" : 3, "level": 1, "itemType":"1", "name": "帶骨牛小排", "path": "/image/num3.jpg"},
+        {"id" : 4, "level": 1, "itemType":"1", "name": "羊五花", "path": "/image/num4.jpg"},
+        {"id" : 5, "level": 1, "itemType":"1", "name": "豬五花", "path": "/image/num5.jpg"},
+        {"id" : 6, "level": 1, "itemType":"1", "name": "雞腿排", "path": "/image/num6.jpg"},
+        {"id" : 7, "level": 1, "itemType":"1", "name": "雞軟骨", "path": "/image/num7.jpg"},
+        {"id" : 8, "level": 2, "itemType":"1", "name": "安格斯無骨牛小排", "path": "/image/num8.jpg"},
+        {"id" : 9, "level": 2, "itemType":"1", "name": "牛肋條", "path": "/image/num9.jpg"},
+        {"id" : 10, "level": 2, "itemType":"1", "name": "美國霜降牛肉", "path": "/image/num10.jpg"},
+        {"id" : 11, "level": 2, "itemType":"1", "name": "美國Prime嫩尖里肌", "path": "/image/num11.jpg"},
+        {"id" : 12, "level": 3, "itemType":"1", "name": "牛舌", "path": "/image/num12.jpg"},
+        {"id" : 13, "level": 3, "itemType":"1", "name": "松阪豬", "path": "/image/num13.jpg"},
+        {"id" : 14, "level": 3, "itemType":"1", "name": "伊比利豬", "path": "/image/num14.jpg"},
+        {"id" : 15, "level": 3, "itemType":"1", "name": "戰斧豬排", "path": "/image/num15.jpg"},
+        {"id" : 16, "level": 3, "itemType":"1", "name": "羊小排", "path": "/image/num16.jpg"}
+    ]
+}
