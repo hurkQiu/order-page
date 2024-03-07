@@ -168,4 +168,19 @@ onBeforeUnmount(() => {
   font-weight: bold;
   border: 2px solid;
 }
+@media (max-width: 720px){
+  .type-Area {
+    width: 720px;
+  }
+}
+@media (min-width: 360px) and (max-width: 720px){
+  .type-Area {
+    width: 100%;
+  }
+}
+@media (max-width: 360px){
+  .type-Area {
+    width: 100%;
+  }
+}
 </style>

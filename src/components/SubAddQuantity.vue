@@ -55,11 +55,13 @@ input {
   text-align: center;
   width: 10%;
   font-size: 16px;
+  min-width: 23px;
 }
 button {
   width: 15%;
   height: 15%;
   border-radius: 50%;
   font-size: 16px;
+  min-width: 30px;
 }
 </style>
